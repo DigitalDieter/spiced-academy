@@ -1,6 +1,5 @@
-### spiced-academy
 
-
+### Successfully graduated from the Spiced Academy Data Science BootCamp in Berlin.
 
 
 ![polypepp](img/polynomial_peppermint.png)
