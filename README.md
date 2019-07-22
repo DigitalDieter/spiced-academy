@@ -4,10 +4,10 @@
 
 
 ![polypepp](img/polynomial_peppermint.png)
-
+‚
 2019 – 2019
 
-Final project: Quality Measurement System with IoT and Deep learning functionality (see media)
+
 
 Topics covered within the bootcamp:
 01	Machine Learning	Python basics, pandas, plotting, git
