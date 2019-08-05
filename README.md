@@ -5,14 +5,14 @@
 ![polypepp](img/polynomial_peppermint.png)
 
 
-Topics covered within the bootcamp:
+Topics covered within the boot camp:
 
 #### Data Analysis in Python
 - Numpy
 - Pandas
 - Data Wrangling
 - Regular Expressions
-- Pamdas Time Series
+- Pandas Time Series
 - Debugging
 
 #### Classification model / algorithm
@@ -23,7 +23,7 @@ Topics covered within the bootcamp:
 - Random Forests / Tree-Based Models
 - Hyperparameter optimization
 
-#### Regression model / algorithm
+#### Regression model/algorithm
 - Gradient descent
 - Linear Regression
 - Regularization
@@ -83,11 +83,11 @@ Topics covered within the bootcamp:
 - NoSQL/ MongoDB
 - Word Embeddings
 - Recurrent Neural Networks
-- Elasticearch, Web form to Database,
+- Elastic search, Webform to Database
 - Sentiment Analysis
 
 #### Advanced Tools
-- Reinforcement Learning,
+- Reinforcement Learning
 - TensorFlow
 - MapReduce
 - Spark
