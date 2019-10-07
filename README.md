@@ -79,7 +79,7 @@ Topics covered within the boot camp:
 - Flask
 - Mongo-DB
 
-#### Social networks Sentiment Analysis
+#### Infrastructure / Natural language processings (NLP)
 - NoSQL/ MongoDB
 - Word Embeddings
 - Recurrent Neural Networks
