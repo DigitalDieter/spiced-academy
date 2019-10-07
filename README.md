@@ -16,18 +16,15 @@ Topics covered within the boot camp:
 - Debugging
 
 #### Classification model / algorithm
-- Logistic Regression
 - Evaluating classifiers
 - Cross-validation
 - Feature Engineering
 - Random Forests / Tree-Based Models
 - Hyperparameter optimization
 
-#### Regression model / algorithm
-- Gradient descent
+#### Regression Analysis
 - Linear Regression
-- Regularization
-
+- Logistic Regression
 
 #### Text Classification
 - Bag of Words
@@ -37,7 +34,6 @@ Topics covered within the boot camp:
 #### Web scraping / data extraction
 - BeautifulSoup 
 - Scrapy
-
 
 #### Recommenders
 - Retrospective /  Unsupervised Learning
@@ -60,6 +56,8 @@ Topics covered within the boot camp:
 - PCA
 - Artificial Neural Networks (ANNs)
 - ANN hyperparameters
+- Regularization
+- Gradient descent
 
 #### Deep Learning Pt. 2
 - Backpropagation I
@@ -72,12 +70,12 @@ Topics covered within the boot camp:
 
 #### Supervised learning
 - Support Vector Machines
-- linear regression
-- logistic regression
-- decision trees
+- Linear regression
+- Logistic regression
+- Decision trees
 
 #### Unsupervised learning
-- k-means
+- K-means
 
 #### Online Dashboards
 - AWS
