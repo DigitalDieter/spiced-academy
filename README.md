@@ -23,18 +23,20 @@ Topics covered within the boot camp:
 - Random Forests / Tree-Based Models
 - Hyperparameter optimization
 
-#### Regression model/algorithm
+#### Regression model / algorithm
 - Gradient descent
 - Linear Regression
 - Regularization
 
 
 #### Text Classification
-- Regular Expressions
 - Bag of Words
 - Bayesian methods
 - Spacy
-- BeautifulSoup, Scrapy
+
+#### Web scraping / data extraction
+- BeautifulSoup 
+- Scrapy
 
 
 #### Recommenders
@@ -53,22 +55,29 @@ Topics covered within the boot camp:
 
 #### Deep Learning Pt. 1
 - Keras (+ virtual environments)
-- Sklearn mnist challenge
+- Sklearn MNIST challenge
 - Regularizing ANNs / Training Strategies
 - PCA
 - Artificial Neural Networks (ANNs)
-- Keras
 - ANN hyperparameters
 
 #### Deep Learning Pt. 2
 - Backpropagation I
 - Convolutional Neural Networks
-- Transfer Learning
 - Support Vector Machines
 - Backpropagation II,
 - Neural Style Transfer
 - ResNet50
 - YOLO
+
+#### Supervised learning
+- Support Vector Machines
+- linear regression
+- logistic regression
+- decision trees
+
+#### Unsupervised learning
+- k-means
 
 #### Online Dashboards
 - AWS
@@ -81,10 +90,13 @@ Topics covered within the boot camp:
 
 #### Infrastructure / Natural language processings (NLP)
 - NoSQL/ MongoDB
+- Elastic search
 - Word Embeddings
-- Recurrent Neural Networks
-- Elastic search, Webform to Database
 - Sentiment Analysis
+
+#### Artificial neural networks (ANN)
+- Recurrent Neural Networks
+
 
 #### Advanced Tools
 - Reinforcement Learning
