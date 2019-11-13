@@ -10,10 +10,9 @@ Topics covered within the boot camp:
 #### Data Analysis in Python
 - Numpy
 - Pandas
-- Data Wrangling
-- Regular Expressions
 - Pandas Time Series
-- Debugging
+- Data Wrangling
+
 
 #### Classification model / algorithm
 - Evaluating classifiers
@@ -48,6 +47,7 @@ Topics covered within the boot camp:
 - Travis CI
 - Pylint / PEP8
 - git GitHub
+- Debugging
 
 #### Deep Learning Pt. 1
 - Keras (+ virtual environments)
